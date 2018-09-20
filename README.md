@@ -3,6 +3,10 @@ When using OpenCV’s deep neural network module with Caffe models, you’ll nee
 	The .prototxt file(s) which define the model architecture (i.e., the layers themselves)
 	The .caffemodel file which contains the weights for the actual layers
 
+You need to install openCV first:
+
+	pip3 install opencv-python
+
 If you don’t have imutils  in your virtual environment, you can install it via:
 
 	pip install imutils
