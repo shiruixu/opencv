@@ -1,6 +1,7 @@
 Instructions:
 
 Download "detect_faces_video.py"
+
 When using OpenCV’s deep neural network module with Caffe models, you’ll need two sets of files:
 
 	The .prototxt file(s) which define the model architecture (i.e., the layers themselves)
