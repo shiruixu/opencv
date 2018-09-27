@@ -1,0 +1,13 @@
+Instructions:
+
+1. install dlib from github on macOS
+    pre-reqs: Python 3; Xcode
+    git clone https://github.com/davisking/dlib.git
+    python3 setup.py install
+    
+2. install face_recognition
+    pip3 install face_recognition
+    
+When you install face_recognition, you get a two simple command-line programs:
+   face_recognition - Recognize faces in a photograph or folder full for photographs.
+   face_detection - Find faces in a photograph or folder full for photographs.
